@@ -1,2 +1,2 @@
-# theresonance-org
-Faithful rebrand of The Resonance website.
+# theresonare-org
+Faithful rebrand of TheResonare.org website.
