@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/theresonance-org/src/app/artistic-director/page.tsx"],"sourcesContent":["import React from 'react'\n\nexport const metadata = { title: 'Artistic Director — Resonaré Chamber Choir', description: 'Biography of Jacob Boland, Artistic Director.' }\n\nexport default function ArtisticDirector() {\n  return (\n    <div>\n      <section className=\"py-8\">\n        <h1 className=\"text-3xl font-semibold\">Jacob Boland</h1>\n        <p className=\"mt-4 text-neutral-300\">Jacob Boland is the Artistic Director of Resonaré Chamber Choir. Placeholder biography describing musical education, experience, approach to the repertoire, and artistic vision. Replace this copy with a full authoritative biography.</p>\n      </section>\n      <section className=\"py-8\">\n        <button className=\"px-4 py-2 rounded bg-neutral-700\">Listen to Jacob’s Piano Sonata in B Minor (placeholder)</button>\n      </section>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;;;AAEO,MAAM,WAAW;IAAE,OAAO;IAA8C,aAAa;AAAgD;AAE7H,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;gBAAQ,WAAU;;kCACjB,8OAAC;wBAAG,WAAU;kCAAyB;;;;;;kCACvC,8OAAC;wBAAE,WAAU;kCAAwB;;;;;;;;;;;;0BAEvC,8OAAC;gBAAQ,WAAU;0BACjB,cAAA,8OAAC;oBAAO,WAAU;8BAAmC;;;;;;;;;;;;;;;;;AAI7D"}}]
+}

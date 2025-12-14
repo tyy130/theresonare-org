@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[32177,["/_next/static/chunks/72253856124a593f.js","/_next/static/chunks/29bfff09aa797ef3.js"],"default"]
+3:I[47255,["/_next/static/chunks/72253856124a593f.js","/_next/static/chunks/29bfff09aa797ef3.js"],"default"]
+4:I[62483,["/_next/static/chunks/72253856124a593f.js","/_next/static/chunks/29bfff09aa797ef3.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"O9fAHpP0q1nobQJrM7BJL","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","$L2",null,{"image":"/images/venues/celestial-resonance.jpg","title":["Celestial","Resonance"],"subtitle":"Diverse Voices, Shared Humanity"}],["$","section",null,{"className":"py-8","children":[["$","h2",null,{"className":"text-2xl font-semibold","children":"Meet Our Artistic Choral Team"}],["$","div",null,{"className":"mt-6","children":["$","$L3",null,{}]}]]}],["$","section",null,{"className":"py-6","children":[["$","h2",null,{"className":"text-2xl font-semibold","children":"Venues We Perform In"}],["$","p",null,{"className":"text-neutral-400 mt-2","children":"We select acoustically resonant and visually compelling spaces for our repertoire. These interiors provide a sense of the concert experience."}],["$","div",null,{"className":"mt-4","children":["$","$L4",null,{}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/29bfff09aa797ef3.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

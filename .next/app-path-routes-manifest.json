@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/contact/route": "/api/contact",
+  "/api/health/route": "/api/health",
+  "/artistic-director/page": "/artistic-director",
+  "/auditions/page": "/auditions",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/terms/page": "/terms"
+}
